@@ -1,2 +1,2 @@
 # js2
-Author-Shreyash
+Author-Shreyash Kumar
